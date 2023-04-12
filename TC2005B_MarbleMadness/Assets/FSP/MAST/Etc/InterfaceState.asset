@@ -17,7 +17,7 @@ MonoBehaviour:
   previousBuildToolIndex: -1
   selectedBuildToolIndex: 1
   selectedPrefabIndex: 4
-  prefabPath: Assets/FSP/Modular Pixel Forest/Prefabs
+  prefabPath: Assets/FSP/Modular Pixel Forest/Prefabs/Props
   selectedPrefabPaletteFolderIndex: 0
   prefabPaletteColumnCount: 3
   previousPaintToolIndex: -1
