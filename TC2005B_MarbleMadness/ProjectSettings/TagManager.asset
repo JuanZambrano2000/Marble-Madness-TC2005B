@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Fire
   - MAST_Holder
+  - pickup
   layers:
   - Default
   - TransparentFX
