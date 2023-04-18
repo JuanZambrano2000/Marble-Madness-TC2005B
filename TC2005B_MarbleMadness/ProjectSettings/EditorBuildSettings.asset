@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0ae70966055f1a940bb5524a55e0ebbb
+  - enabled: 1
+    path: Assets/Scenes/Escena_1_prueba.unity
+    guid: 3a24b46fb8d2a444899449f14d320c4b
+  - enabled: 1
+    path: Assets/Scenes/Escena2_laberinto.unity
+    guid: 7ab4845728e560549aa961cb4ac9c5b4
+  - enabled: 1
+    path: Assets/Scenes/Escena3_JumpQuest.unity
+    guid: 57d444d72aba72644b866f922795a854
   m_configObjects: {}
