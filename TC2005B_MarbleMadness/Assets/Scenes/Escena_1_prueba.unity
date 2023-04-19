@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028334, g: 0.22571328, b: 0.3069217, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1898,6 +1898,10 @@ PrefabInstance:
       value: GameManager
       objectReference: {fileID: 0}
     - target: {fileID: 410038167581721517, guid: ad57e664c3f61e8418dc94f8c773c4f9, type: 3}
+      propertyPath: score
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 410038167581721517, guid: ad57e664c3f61e8418dc94f8c773c4f9, type: 3}
       propertyPath: player
       value: 
       objectReference: {fileID: 1337687163301976983}
@@ -3285,6 +3289,14 @@ PrefabInstance:
     - target: {fileID: 1337687162517528413, guid: c664715cf1a8a2b42afe5ae4bcc8ef34, type: 3}
       propertyPath: m_Name
       value: TempPlayerBall
+      objectReference: {fileID: 0}
+    - target: {fileID: 1337687163471899848, guid: c664715cf1a8a2b42afe5ae4bcc8ef34, type: 3}
+      propertyPath: m_MovePower
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1337687163471899848, guid: c664715cf1a8a2b42afe5ae4bcc8ef34, type: 3}
+      propertyPath: m_MaxAngularVelocity
+      value: 15
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c664715cf1a8a2b42afe5ae4bcc8ef34, type: 3}

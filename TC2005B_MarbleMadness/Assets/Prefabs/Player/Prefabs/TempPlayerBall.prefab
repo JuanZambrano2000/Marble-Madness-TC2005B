@@ -44,6 +44,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FreeLookCameraRig
       objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 49a0e923d39ec3c4c8bb97699e2f2903, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 49a0e923d39ec3c4c8bb97699e2f2903, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -268,12 +272,20 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: 0a6cdc6a7c96a7d44b3d89d775a64ccd, type: 2}
     - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
+      propertyPath: m_JumpPower
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
       propertyPath: m_MovePower
-      value: 5
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
+      propertyPath: m_UseTorque
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
       propertyPath: m_MaxAngularVelocity
-      value: 25
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 11400002, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
       propertyPath: cam
