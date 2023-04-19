@@ -412,7 +412,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   healthPoints: 1
   respawnHealthPoints: 1
-  numberOfLives: 100000
+  numberOfLives: 1
   isAlive: 1
   explosionPrefab: {fileID: 0}
   onLivesGone: 1

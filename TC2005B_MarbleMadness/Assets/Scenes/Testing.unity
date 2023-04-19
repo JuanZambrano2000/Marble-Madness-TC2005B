@@ -1277,6 +1277,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5180352642585349379, guid: 5906fc0dac170e4409fae2deb67e6cb7, type: 3}
+      propertyPath: LevelToLoad
+      value: Escena2_laberinto
+      objectReference: {fileID: 0}
     - target: {fileID: 8640151845602947339, guid: 5906fc0dac170e4409fae2deb67e6cb7, type: 3}
       propertyPath: m_Name
       value: BeatLevelCanvas
