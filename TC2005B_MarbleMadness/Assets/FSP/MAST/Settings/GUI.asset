@@ -24,7 +24,11 @@ MonoBehaviour:
     snapshotCameraYaw: 30
     overwriteThumbnails: 0
   toolbar:
+<<<<<<< Updated upstream
     selectedDrawToolIndex: 2
+=======
+    selectedDrawToolIndex: 0
+>>>>>>> Stashed changes
     selectedPaintToolIndex: -1
     position: 0
     scale: 1

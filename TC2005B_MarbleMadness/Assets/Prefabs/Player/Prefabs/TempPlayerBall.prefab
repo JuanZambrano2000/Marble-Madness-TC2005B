@@ -156,11 +156,23 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 0a6cdc6a7c96a7d44b3d89d775a64ccd, type: 2}
     - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
       propertyPath: m_MovePower
+<<<<<<< Updated upstream
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
       propertyPath: m_MaxAngularVelocity
       value: 25
+=======
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
+      propertyPath: m_UseTorque
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
+      propertyPath: m_MaxAngularVelocity
+      value: 15
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 11400002, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
       propertyPath: cam
