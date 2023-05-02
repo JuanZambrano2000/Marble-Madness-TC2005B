@@ -106,9 +106,9 @@ public class GameManager : MonoBehaviour {
 	public void Collect(int amount) {
 		score += amount;
 		if (canBeatLevel) {
-			mainScoreDisplay.text = score.ToString ();
+			mainScoreDisplay.text = score.ToString();
 		} else {
-			mainScoreDisplay.text = score.ToString ();
+			mainScoreDisplay.text = score.ToString();
 		}
 
 	}

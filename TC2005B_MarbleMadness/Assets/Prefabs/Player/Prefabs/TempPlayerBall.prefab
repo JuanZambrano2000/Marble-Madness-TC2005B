@@ -273,11 +273,11 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 0a6cdc6a7c96a7d44b3d89d775a64ccd, type: 2}
     - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
       propertyPath: m_JumpPower
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
       propertyPath: m_MovePower
-      value: 18
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
       propertyPath: m_UseTorque
@@ -285,7 +285,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
       propertyPath: m_MaxAngularVelocity
-      value: 20
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 11400002, guid: 8a8caf308667eac48945f9af0a423d03, type: 3}
       propertyPath: cam
