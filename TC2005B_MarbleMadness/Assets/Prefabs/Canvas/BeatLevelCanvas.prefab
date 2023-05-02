@@ -227,7 +227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64f8043d604074445a91b7d76ee56a20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LevelToLoad: Escena2_laberinto
+  LevelToLoad: Level_1
 --- !u!1 &4695313126356746714
 GameObject:
   m_ObjectHideFlags: 0
