@@ -2,6 +2,8 @@
 
 ## Videojuego final con el profesor Guillermo Gabriel Rivas Aguilar
 
+### Link para jugarlo en linea:
+- [Marble Madness](https://juanzambrano2000.itch.io/marble-madness)
 - Nombre del juego, equipo e integrantes : 
     - Marble Madness
     - NGD
